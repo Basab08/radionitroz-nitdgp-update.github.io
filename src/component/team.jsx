@@ -2,7 +2,7 @@ import React from 'react';
 import MailIcon from '@material-ui/icons/Mail';
 import PhoneIcon from '@material-ui/icons/Phone';
 
-import Rounak from '../images/firstyear/Rounak.jpeg'; 
+// import Rounak from '../images/firstyear/Rounak.jpeg'; 
 import Basab from '../images/firstyear/Basab.jpeg';  
 import Priyal from '../images/firstyear/Priyal.jpg';  
 import Aniket from '../images/firstyear/Aniket_.jpg';  
